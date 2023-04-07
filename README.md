@@ -3,7 +3,7 @@ This repository contains code for generating Vietnamese folk songs using a trans
 In this project, we use a transformer-based model to generate new Vietnamese folk songs, given a seed melody. We use a corpus of Vietnamese folk song MIDI files for training the model.
 
 # Dataset
-We used the Vietnamese Folk Song MIDI Dataset for training and evaluation. This dataset contains over 1000 Vietnamese folk song MIDI files, representing a wide range of styles and regions.
+We used the Vietnamese Folk Song MIDI Dataset for training and evaluation. This dataset contains roughly 20 famous Vietnamese folk song in MIDI format.
 
 # Requirements
 To run this project, you will need the following dependencies:
